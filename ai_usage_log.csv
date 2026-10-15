@@ -1,0 +1,18 @@
+route,week_of,model,status,input_tokens,output_tokens,total_tokens,estimated_cost_inr
+Chennai-Bangalore,2025-03-10,gemini-3.8-flash,success,165,91,904,0.0
+Chennai-Bangalore,2025-03-17,gemini-3.8-flash,success,165,93,899,0.0
+Delhi-Jaipur,2024-11-11,gemini-3.8-flash,"error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",0,0,0,0.0
+Delhi-Jaipur,2024-11-18,gemini-3.8-flash,success,165,88,1000,0.0
+Mumbai-Pune,2025-06-23,gemini-3.8-flash,"error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",0,0,0,0.0
+Mumbai-Pune,2025-09-15,gemini-3.8-flash,success,162,87,796,0.0
+Mumbai-Pune,2025-10-06,gemini-3.8-flash,success,162,81,867,0.0
+Mumbai-Pune,2025-10-20,gemini-3.8-flash,success,161,79,754,0.0
+Mumbai-Pune,2025-10-27,gemini-3.8-flash,success,162,82,843,0.0
+Mumbai-Pune,2025-11-03,gemini-3.8-flash,success,161,81,806,0.0
+Mumbai-Pune,2025-11-10,gemini-3.8-flash,success,162,93,1047,0.0
+Mumbai-Pune,2025-11-17,gemini-3.8-flash,success,162,92,993,0.0
+Mumbai-Pune,2025-11-24,gemini-3.8-flash,"error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",0,0,0,0.0
+Mumbai-Pune,2025-12-01,gemini-3.8-flash,"error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",0,0,0,0.0
+Mumbai-Pune,2025-12-08,gemini-3.8-flash,"error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",0,0,0,0.0
+Mumbai-Pune,2025-12-15,gemini-3.8-flash,"error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",0,0,0,0.0
+Mumbai-Pune,2025-12-22,gemini-3.8-flash,success,162,89,917,0.0
